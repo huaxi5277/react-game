@@ -113,6 +113,7 @@ class App extends Component {
   }
   render() {
     return (
+      <h1>这是一个五子棋游戏</h1>
       <Game></Game>
     )
   }
