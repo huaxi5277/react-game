@@ -114,6 +114,7 @@ class App extends Component {
   render() {
     return (
       <h1>这是一个五子棋游戏</h1>
+      <h2>这是一个好玩的五子棋游戏啊</h2>
       <Game></Game>
     )
   }
